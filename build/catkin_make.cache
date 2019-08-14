@@ -1,0 +1,2 @@
+m-explore/explore:m-explore/map_merge:multirobot_test
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/jyk/multirobot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jyk/multirobot_ws/install

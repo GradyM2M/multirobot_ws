@@ -1,0 +1,7 @@
+<launch>
+    <arg name="map" default="map" />
+
+    <node name="map_saver" pkg="map_server" type="map_saver" args="-f robot_1.map">
+        <remap from="map" to="$(arg map)" />
+    </node>
+</launch>
