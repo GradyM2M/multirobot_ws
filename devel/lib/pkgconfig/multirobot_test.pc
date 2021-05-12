@@ -1,8 +1,0 @@
-prefix=/home/jyk/multirobot_ws/devel
-
-Name: multirobot_test
-Description: Description of multirobot_test
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jyk/multirobot_ws/devel/lib 
-Requires: 
